@@ -318,10 +318,10 @@
 	
 	<OptionDropRate>
 		<Common>  <!-- Sum of the values must be equal to 10000 per row -->
-			<Kind A="1" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
-			<Kind A="2" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
-			<Kind A="3" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
-			<Kind A="4" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
+			<Kind A="1" One="5000" Two="3000" Three="2000" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
+			<Kind A="2" One="5000" Two="3000" Three="2000" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
+			<Kind A="3" One="5000" Two="3000" Three="2000" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
+			<Kind A="4" One="5000" Two="3000" Three="2000" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
 			<Kind A="14" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
 			<Kind A="15" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />
 			<Kind A="18" One="7500" Two="2500" Three="0" Four="0" Five="0" Six="0" Seven="0" Eight="0" Nine="0" />

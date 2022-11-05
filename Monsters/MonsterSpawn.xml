@@ -104,11 +104,12 @@
 			<Spawn Index="257" Distance="0" StartX="132" StartY="165" Dir="3" />
 			<Spawn Index="257" Distance="0" StartX="132" StartY="90" Dir="3" />
 			<Spawn Index="257" Distance="0" StartX="170" StartY="129" Dir="1" />
-			<Spawn Index="543" Distance="0" StartX="144" StartY="127" Dir="3" /> <!-- Gens Duprian Steward -->
+			<Spawn Index="543" Distance="0" StartX="130" StartY="137" Dir="3" /> <!-- Gens Duprian Steward -->
 			<Spawn Index="547" Distance="0" StartX="139" StartY="138" Dir="3" /> <!-- Market Union Member Julia -->
 			<Spawn Index="584" Distance="0" StartX="114" StartY="132" Dir="3" /> <!-- Sir Lesnar -->
 			<Spawn Index="764" Distance="0" StartX="131" StartY="147" Dir="3" /> <!-- Cent (Town) -->	
 			<Spawn Index="375" Distance="0" StartX="132" StartY="161" Dir="2" /> <!-- Chaos Card Master -->
+			<Spawn Index="479" Distance="0" StartX="130" StartY="135" Dir="1" /> <!-- Doorkeeper Titus -->
 		</Spot>
 		<Spot Type="1" Description="Multi-Spawn">
 			<Spawn Index="3" Distance="30" StartX="180" StartY="90" EndX="226" EndY="244" Dir="-1" Count="45" /> <!-- Spider -->
@@ -4316,7 +4317,7 @@
 	</Map>
 	<Map Number="63" Name="Vulcanus">
 		<Spot Type="0" Description="NPC/Traps">
-			<Spawn Index="479" Distance="0" StartX="122" StartY="135" Dir="1" /> <!-- Doorkeeper Titus -->
+			
 		</Spot>
 		<Spot Type="1" Description="Multi-Spawn">
 			<Spawn Index="481" Distance="30" StartX="64" StartY="54" EndX="124" EndY="89" Dir="-1" Count="3" /> <!-- Zombie Fighter -->
