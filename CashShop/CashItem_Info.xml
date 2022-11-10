@@ -1036,22 +1036,4 @@
 	<Item GUID="1080" ID="1586" Cat="13" Index="46" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Devil Square Ticket" />
 	<Item GUID="1081" ID="1588" Cat="14" Index="160" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Extension" />
 	<Item GUID="1082" ID="1590" Cat="14" Index="160" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Jewel of Extension" />
-	<Item GUID="1083" ID="1592" Cat="16" Index="68" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Snow Fairy (Evolved)" />
-	<Item GUID="1084" ID="1594" Cat="16" Index="113" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Knicks (Evolved)" />
-	<Item GUID="1085" ID="1596" Cat="16" Index="115" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Serufan (Evolved)" />
-	<Item GUID="1086" ID="1598" Cat="16" Index="70" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Rex Millon" />
-	<Item GUID="1087" ID="1600" Cat="16" Index="69" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Prince" />
-	<Item GUID="1088" ID="1602" Cat="16" Index="232" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Tibetton (Evolved)" />
-	<Item GUID="1089" ID="1604" Cat="16" Index="327" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Repen (Evolved)" />
-	<Item GUID="1090" ID="1606" Cat="16" Index="327" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Repen (Evolved)" />
-	<Item GUID="1091" ID="1608" Cat="16" Index="331" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Griffs (Evolved)" />
-	<Item GUID="1092" ID="1610" Cat="16" Index="323" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Kenturion (Evolved)" />
-	<Item GUID="1093" ID="1612" Cat="16" Index="68" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Snow Fairy (Evolved)" />
-	<Item GUID="1094" ID="1614" Cat="16" Index="113" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Knicks (Evolved)" />
-	<Item GUID="1095" ID="1616" Cat="16" Index="115" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Serufan (Evolved)" />
-	<Item GUID="1096" ID="1618" Cat="16" Index="232" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Tibetton (Evolved)" />
-	<Item GUID="1097" ID="1620" Cat="16" Index="327" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Repen (Evolved)" />
-	<Item GUID="1098" ID="1622" Cat="16" Index="327" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Repen (Evolved)" />
-	<Item GUID="1099" ID="1624" Cat="16" Index="331" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Griffs (Evolved)" />
-	<Item GUID="1100" ID="1626" Cat="16" Index="323" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Kenturion (Evolved)" />
 </CashItemInfo>
