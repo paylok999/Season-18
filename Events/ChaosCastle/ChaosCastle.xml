@@ -41,12 +41,12 @@
 	<Time StartIn="5" Duration="10" TownSpawn="1" />
 	
 	<EventSchedule>
-		<Start Hour="1"  Minute="0" />
-		<Start Hour="15" Minute="0" />
-		<Start Hour="17" Minute="0" />
-		<Start Hour="19" Minute="0" />
-		<Start Hour="21" Minute="0" />
-		<Start Hour="23" Minute="0" />
+		<Start Hour="12"  Minute="0" />
+		<Start Hour="14" Minute="0" />
+		<Start Hour="16" Minute="0" />
+		<Start Hour="18" Minute="0" />
+		<Start Hour="20" Minute="0" />
+		<Start Hour="22" Minute="0" />
 	</EventSchedule>
 	
 	<EntryLevel>
