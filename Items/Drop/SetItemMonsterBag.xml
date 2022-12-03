@@ -57,7 +57,7 @@
 
 <SetItemDrop>
 <Map Number="63" DropFlag="1">
-    <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="11" Index="5" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="6300" Name="Leather Boots" />
+   <!-- <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="11" Index="5" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="6300" Name="Leather Boots" />
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="10" Index="5" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="6300" Name="Leather Gloves" />
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="7" Index="5" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="6300" Name="Leather Helm" />
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="9" Index="5" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="6300" Name="Leather Pants" />
@@ -233,7 +233,7 @@
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="11" Index="94" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="4000" Name="Hirat Boots" />
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="8" Index="95" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="4000" Name="Sate Armor" />
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="6" Index="30" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="4000" Name="Pluma Shield" />
-    <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="11" Index="95" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="4000" Name="Sate Boots" />
+    <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="11" Index="95" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="4000" Name="Sate Boots" /> -->
 	
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="7" Index="209" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="4000" Name="Frere tier1" />
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="8" Index="209" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="4000" Name="Frere tier1" />
@@ -243,7 +243,7 @@
 	<DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="7" Index="209" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="2" Duration="0" Rate="4000" Name="Frere tier2" />
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="8" Index="209" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="2" Duration="0" Rate="4000" Name="Frere tier2" />
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="9" Index="209" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="2" Duration="0" Rate="4000" Name="Frere tier2" />
-    <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="10" Index="209" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="2" Duration="0" Rate="4000" Name="Frere tier2" />
+    <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="10" Index="209" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="4000" Name="Frere tier2" />
 	
 	
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="8" Index="303" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="4000" Name="blackorigin tier1" />
@@ -275,6 +275,18 @@
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="8" Index="238" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="2" Duration="0" Rate="4000" Name="slay tier2" />
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="9" Index="238" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="2" Duration="0" Rate="4000" Name="slay tier2" />
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="10" Index="238" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="2" Duration="0" Rate="4000" Name="slay tier2" />
+	
+    <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="7" Index="256" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="4000" Name="mage tier1" />
+    <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="8" Index="256" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="4000" Name="mage tier1" />
+    <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="9" Index="256" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="4000" Name="mage tier1" />
+    <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="10" Index="256" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="4000" Name="mage tier1" />
+	
+    <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="8" Index="256" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="2" Duration="0" Rate="4000" Name="mage tier2" />
+    <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="9" Index="256" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="2" Duration="0" Rate="4000" Name="mage tier2" />
+    <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="10" Index="256" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="2" Duration="0" Rate="4000" Name="mage tier2" />
+    <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="11" Index="256" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="4000" Name="mage tier2" />
+	
+	
   </Map> 
   <Map Number="91" DropFlag="2">
     <DropItem MonsterMinLevel="-1" MonsterMaxLevel="-1" PlayerMinLevel="-1" PlayerMaxLevel="-1" Cat="11" Index="5" MinLevel="0" MaxLevel="0" Skill="1" Luck="-1" Option="0" Exc="-1" SetOption="1" Duration="0" Rate="53" Name="Leather Boots" />

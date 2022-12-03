@@ -1054,4 +1054,29 @@
 	<Item GUID="1098" ID="1622" Cat="16" Index="327" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Repen (Evolved)" />
 	<Item GUID="1099" ID="1624" Cat="16" Index="331" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Griffs (Evolved)" />
 	<Item GUID="1100" ID="1626" Cat="16" Index="323" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Kenturion (Evolved)" />
+	<Item GUID="1101" ID="1627" Cat="14" Index="96" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Talisman of Chaos Assembly" />
+	<Item GUID="1102" ID="1629" Cat="14" Index="53" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="5" Duration="1" Description="Talisman of Luck" />
+	<Item GUID="1103" ID="1631" Cat="14" Index="189" Level="0" Durability="1" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Elemental Talisman of Luck" />
+	<Item GUID="1104" ID="1633" Cat="14" Index="190" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Elemental Talisman of Chaos" />
+	<Item GUID="1105" ID="1635" Cat="13" Index="58" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Reset Fruit Control" />
+	<Item GUID="1106" ID="1637" Cat="13" Index="57" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Reset Fruit Energy" />
+	<Item GUID="1107" ID="1639" Cat="13" Index="54" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Reset Fruit Strength" />
+	<Item GUID="1108" ID="1641" Cat="13" Index="55" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Reset Fruit Quickness" />
+	<Item GUID="1109" ID="1643" Cat="13" Index="56" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Reset Fruit Health" />
+	<Item GUID="1110" ID="1645" Cat="13" Index="152" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Scroll of Green Oblivion" />
+	<Item GUID="1111" ID="1647" Cat="13" Index="153" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Scroll of Blue Oblivion" />
+	<Item GUID="1112" ID="1649" Cat="13" Index="154" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Scroll of Red Oblivion" />
+	<Item GUID="1113" ID="1651" Cat="13" Index="155" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Scroll of Gray Oblivion" />
+	<Item GUID="1114" ID="1653" Cat="13" Index="509" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Scroll of Black Oblivion" />
+	<Item GUID="1115" ID="1655" Cat="14" Index="209" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Tradeable Seal" />
+	<Item GUID="1116" ID="1657" Cat="14" Index="317" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Talisman Element Change" />
+	<Item GUID="1117" ID="1659" Cat="14" Index="320" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Blessing of Spirit" />
+	<Item GUID="1118" ID="1661" Cat="14" Index="345" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Mysterious Stone" />
+	<Item GUID="1119" ID="1663" Cat="16" Index="329" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Pawn (Evolved)" />
+	<Item GUID="1120" ID="1665" Cat="13" Index="54" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Reset Fruit Strength" />
+	<Item GUID="1121" ID="1667" Cat="13" Index="55" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Reset Fruit Quickness" />
+	<Item GUID="1122" ID="1669" Cat="13" Index="56" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Reset Fruit Health" />
+	<Item GUID="1123" ID="1671" Cat="13" Index="57" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Reset Fruit Energy" />
+	<Item GUID="1124" ID="1673" Cat="13" Index="58" Level="0" Durability="20" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Reset Fruit Control" />
+	<Item GUID="1125" ID="1675" Cat="16" Index="329" Level="0" Durability="255" Skill="0" Luck="0" Option="0" Exc="-1" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Pawn (Evolved)" />
 </CashItemInfo>
